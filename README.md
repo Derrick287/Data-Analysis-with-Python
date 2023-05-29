@@ -1,5 +1,5 @@
 # Data Analysis with Python
-This is a Data Analysis using the following Python Libraries:
+This is a Data Analysis with Python on Google Colab:
 1. NumPy
 2. Pandas
 3. Matplotlib
